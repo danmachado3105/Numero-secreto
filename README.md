@@ -15,7 +15,7 @@ Projeto criado durante o curso **[Lógica de Programação: Explore Funções e 
 
 ## 📸 Preview
 
-*(adicione aqui um screenshot ou GIF do jogo em funcionamento)*
+<img width="1919" height="926" alt="Captura de tela 2026-08-17 000812" src="https://github.com/user-attachments/assets/9b006b29-daf2-40a7-8d4d-21d6d37c61b8" />
 
 ---
 
